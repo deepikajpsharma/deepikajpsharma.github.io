@@ -7,8 +7,8 @@
 # Edit all lines marked [YOUR ...] to customize your site
 # ============================================================
 
-site_name: "Deepika - Geospatial Portfolio"
-site_description: "Portfolio of Deepika — GIS, Remote Sensing, and Spatial Data Science"
+site_name: "Deepika's Portfolio"
+site_description: "Portfolio of Deepika — project management, research, outreach"
 site_author: "Deepika"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
 #site_url: "https://your-username.github.io/your-repo-name"
